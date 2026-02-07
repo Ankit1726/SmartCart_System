@@ -3,8 +3,7 @@
 An end-to-end **Machine Learning powered customer segmentation system** built to help businesses understand customer behavior and make smarter marketing decisions.
 
 🚀 **Live Demo:**  
-👉 https://smartcart-customer-segmentation.streamlit.app  
-*(Replace with your actual Streamlit Cloud link)*
+👉 https://smartcartsystem-l2vwpha9jyn7jga9pwyf4p.streamlit.app
 
 ---
 
